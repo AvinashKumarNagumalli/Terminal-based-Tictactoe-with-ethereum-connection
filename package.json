@@ -1,0 +1,17 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "tic-tac-toe game with nodejs as backend and connected to ethereum",
+  "main": "tictactoe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "big-number": "^2.0.0",
+    "ethereumjs-abi": "^0.6.8",
+    "prompt-sync": "^4.1.7",
+    "web3": "^1.2.1"
+  }
+}
