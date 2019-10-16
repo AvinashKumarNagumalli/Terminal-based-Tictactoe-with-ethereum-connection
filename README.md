@@ -1,5 +1,5 @@
 # Terminal-based-Tictactoe-with-ethereum-connection
-command line tic tac toe game backend in node js with ethereum based payment state channel
+Command line tic tac toe game backend in node js with ethereum based payment state channel
 
 1.Player 1 starts "new game" and enters the bet amount.
 
