@@ -91,7 +91,7 @@ var verifyContarct = function (bet, caddress) {
         game.socketPlayer1 = "01"
         contractInstance = Contract.new({
             value: web3.toWei(valueSelected),
-            data: bytecode.object,
+            data: contract1.bytecode.object,
             gas: 7e6
         }, (err, result) => {
             console.log(result, "result")
